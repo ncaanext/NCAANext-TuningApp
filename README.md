@@ -42,3 +42,9 @@ It is recommended to make a backup before you start tweaking in case you don't l
 
 *Match-Up Highlighted Text Color*
 * This changes the color of the Match-Up pop-up that is available when previewing games in the schedule. This will highlight the team with the better stats or ratings.
+  
+
+<img width="637" height="368" alt="Screenshot 2025-12-13 133033" src="https://github.com/user-attachments/assets/b023e280-37cc-4698-82c4-aba6cbadc919" />
+
+<img width="677" height="498" alt="Screenshot 2025-12-13 133010" src="https://github.com/user-attachments/assets/5a74004c-6ce6-4ed8-9eda-db2e0b3b5dd6" />
+
