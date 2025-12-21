@@ -230,14 +230,14 @@ namespace NEXT_Tuning_App
         {
             if (EasyKickBox.Checked)
             {
-                numEasyKick.Enabled = true;
-                numEasyKick.ReadOnly = false;
-                numEasyKick.Value = 50;
+                numKickSlider.Enabled = true;
+                numKickSlider.ReadOnly = false;
+                numKickSlider.Value = 50;
             }
             else
             {
-                numEasyKick.Enabled = false;
-                numEasyKick.ReadOnly = true;
+                numKickSlider.Enabled = false;
+                numKickSlider.ReadOnly = true;
             }
 
         }
@@ -249,7 +249,7 @@ namespace NEXT_Tuning_App
                 double difficultyFactor = 8.33;
                 int difficulty = (int)KickDiffComboBox.SelectedIndex;
 
-                KickMeterValue.Text = Convert.ToString(Math.Round(Convert.ToDouble(numEasyKick.Value) - difficultyFactor * difficulty, 0));
+                KickMeterValue.Text = Convert.ToString(Math.Round(Convert.ToDouble(numKickSlider.Value) - difficultyFactor * difficulty, 0));
             }
             else
             {
@@ -263,7 +263,7 @@ namespace NEXT_Tuning_App
                 double difficultyFactor = 8.33;
                 int difficulty = (int)KickDiffComboBox.SelectedIndex;
 
-                KickMeterValue.Text = Convert.ToString(Math.Round(Convert.ToDouble(numEasyKick.Value) - difficultyFactor * difficulty, 0));
+                KickMeterValue.Text = Convert.ToString(Math.Round(Convert.ToDouble(numKickSlider.Value) - difficultyFactor * difficulty, 0));
             }
             else
             {
