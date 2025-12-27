@@ -11,7 +11,7 @@ It is recommended to make a backup before you start tweaking in case you don't l
 
 
 
-<img width="840" height="435" alt="image" src="https://github.com/user-attachments/assets/6b271d4c-c84b-46de-8fe6-5c511d2c48cc" />
+<img width="831" height="610" alt="image" src="https://github.com/user-attachments/assets/a778722a-b713-46f3-a541-246cf6c4d2a2" />
 
 
 
@@ -22,20 +22,42 @@ It is recommended to make a backup before you start tweaking in case you don't l
 * This is pretty self-explantory. This lets users update the first year in a dynasty.
 
 
+*Impact Players*
+* Enable/Disable Impact Players
+* Impact players affect CPU playcalling, so there is a benefit to turning them off to reduce passing or running plays
+  
+
 *Sim Game Length Factor*
 * This tweak updates the amount of offensive plays per game. The original game default is 120 plays per game, while the NEXT26 and real-life college stat are roughly 136 plays per game on average. User can adjust this according to their in-game play length settings. Increasing the value will reduce the number of plays per simulated game.
 
+
+*Bowl Games*
+* Enable/Disable Player Opt-Outs for Bowl Games
+* Set minimum player rating that can opt-out of bowls
+* Enable/Disable wether Bowl Game outcomes affect final poll rankings. Playoff games will always impact rankings.
+  
 
 *Number of Conf Champs Automatic Playoff Spots*
 * This increases or decreases the number of conference champions that make the playoffs automatically.
 
 
+*Kicking Slider*
+* Sets the kicking meter speed based on user difficulty
+* Text values show the default game speed values for reference
+
+  
 *Fatigue Slider*
 * This updates the level of fatigue that occurs in gameplay. The higher the number, the more fatigue the players will experience on a play.
 
-
 *Speed Nerf*
 * This enables the "Speed Nerf" mod. This reduces the speed of players in-game but does not affect their ratings. 
+
+
+*Polygon Patch*
+* Enable/Disable Player Opt-Outs for Bowl Games
+* Set minimum player rating that can opt-out of bowls
+* Enable/Disable wether Bowl Game outcomes affect final poll rankings. Playoff games will always impact rankings.
+  
 
 *User Team Highlighted Text Color*
 * This changes the color of the User Team when shown in various Dynasty Mode screens
